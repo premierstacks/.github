@@ -57,7 +57,6 @@ Explore some of the available templates:
 **[https://github.com/premierstacks/node-webpack-typescript-library-template](https://github.com/premierstacks/node-webpack-typescript-library-template)**<br />
 **[https://github.com/premierstacks/node-webpack-typescript-app-template](https://github.com/premierstacks/node-webpack-typescript-app-template)**<br />
 **[https://github.com/premierstacks/browser-webpack-typescript-app-template](https://github.com/premierstacks/browser-webpack-typescript-app-template)**<br />
-**[https://github.com/premierstacks/laravel-app-template](https://github.com/premierstacks/laravel-app-template)**<br />
 
 _More templates are available in our private repositories._
 
@@ -74,7 +73,6 @@ Our stacks are designed to simplify complex setups and provide a consistent foun
 **[https://github.com/premierstacks/stylelint-stack](https://github.com/premierstacks/stylelint-stack)**<br />
 **[https://github.com/premierstacks/prettier-stack](https://github.com/premierstacks/prettier-stack)**<br />
 **[https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)**<br />
-**[https://github.com/premierstacks/laravel-stack](https://github.com/premierstacks/laravel-stack)**<br />
 
 _Discover more stacks in our private repositories._
 
