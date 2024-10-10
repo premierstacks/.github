@@ -6,13 +6,13 @@ Welcome to the Premierstacks GitHub organization! In this document, I'll explain
 
 ## What is Premierstacks?
 
-[https://gitub.com/premierstacks](https://gitub.com/premierstacks)
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
 Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
 ## What is Tomchochola
 
-[https://gitub.com/tomchochola](https://gitub.com/tomchochola)
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
 This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
