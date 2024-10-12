@@ -5,7 +5,7 @@ SHELL := /bin/bash
 .DEFAULT_GOAL := never
 
 # Variables
-SOURCES = $(shell find . -maxdepth 1 -type f)
+SOURCES = $(shell rg --files --hidden --iglob '!.git')
 
 # Goals
 .PHONY: audit
@@ -90,9 +90,11 @@ testing:
 update: update_npm
 
 .PHONY: update_npm
-update_npm: package.json
+update_npm: ./package.json
+	rm -rf ./node_modules
 	npm update --install-links --include prod --include dev --include peer --include optional
 
 # Dependencies
-./package-lock.json ./node_modules ./node_modules/.bin/eslint ./node_modules/.bin/prettier: package.json
+./package-lock.json ./node_modules ./node_modules/.bin/eslint ./node_modules/.bin/prettier: ./package.json
+	rm -rf ./node_modules
 	npm install --install-links --include prod --include dev --include peer --include optional
