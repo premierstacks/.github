@@ -3,15 +3,15 @@
   "description": "https://github.com/premierstacks",
   "keywords": [
     "tomchochola",
-    "premierstacks",
-    "https://github.com/premierstacks"
+    "tomaschochola",
+    "premierstacks"
   ],
   "homepage": "https://github.com/premierstacks/premierstacks",
   "bugs": {
     "email": "chocholatom1997@gmail.com",
     "url": "https://github.com/premierstacks/premierstacks/issues"
   },
-  "license": "SEE LICENSE IN ./LICENSE.md",
+  "license": "CC-BY-ND-4.0",
   "author": {
     "email": "chocholatom1997@gmail.com",
     "name": "Tomáš Chochola",
@@ -28,14 +28,12 @@
     "type": "github",
     "url": "https://github.com/sponsors/tomchochola"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/premierstacks/premierstacks.git"
-  },
+  "repository": "github:premierstacks/.github",
   "devDependencies": {
     "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack",
     "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "sideEffects": false
 }
