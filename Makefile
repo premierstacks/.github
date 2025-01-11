@@ -20,9 +20,6 @@ clean:
 	rm -rf ./node_modules
 	rm -rf ./package-lock.json
 
-.PHONY: commit
-commit: fix check
-
 .PHONY: development
 development:
 
