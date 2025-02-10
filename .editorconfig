@@ -14,12 +14,3 @@ trim_trailing_whitespace = false
 
 [Makefile]
 indent_style = tab
-
-[*.php]
-indent_size = 4
-
-[*.blade.php]
-indent_size = 2
-
-[*.stub]
-indent_size = 4
