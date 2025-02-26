@@ -5,9 +5,9 @@
 .vscode
 .zed
 
+# svg
+*.svg
+
 # node
 /node_modules
 /package-lock.json
-
-# svg
-*.svg
